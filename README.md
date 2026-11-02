@@ -40,8 +40,6 @@ pnpm package   # 生成 package.zip
 3. 重启思源，在「设置 → 集市 → 已安装」启用「Mankeep人脉」
 4. 点击顶栏 Mankeep 图标（或左侧停靠栏「Mankeep」），按向导初始化
 
-> 从旧包名 `siyuan-renmai` 升级时：把新包放到 `data/plugins/siyuan-mankeep/` 后，首次启动会自动迁移旧私有数据。请在「集市 → 已安装」禁用旧的 `siyuan-renmai`，避免出现两个入口。
-
 ## 已知限制
 
 - 不包含 AI 识别、会议笔记捕获、CardDAV/CalDAV 在线同步。
