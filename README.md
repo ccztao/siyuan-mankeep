@@ -36,7 +36,7 @@
 
 ### 关系图谱
 
-![关系图谱示意图](https://cdn.jsdelivr.net/gh/ccztao/siyuan-mankeep@main/screenshots/graph.jpg)
+![关系图谱示意图](https://cdn.jsdelivr.net/gh/ccztao/siyuan-mankeep@f878ef823800f9a5509d81e7aea23b8794dd6146/screenshots/graph.jpg)
 
 > 示意图，非真实联系人数据。
 
@@ -44,7 +44,7 @@
 
 ### 主题
 
-![三种主题](https://cdn.jsdelivr.net/gh/ccztao/siyuan-mankeep@main/screenshots/theme-showcase.jpg)
+![三种主题](https://cdn.jsdelivr.net/gh/ccztao/siyuan-mankeep@f878ef823800f9a5509d81e7aea23b8794dd6146/screenshots/theme-showcase.jpg)
 
 领英蓝 / 暖橘 / 松绿，在设置 → 主题颜色切换。
 
