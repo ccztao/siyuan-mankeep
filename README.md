@@ -32,15 +32,13 @@
 
 ### 地图
 
-![全局地图](https://cdn.jsdelivr.net/gh/ccztao/siyuan-mankeep@main/screenshots/global-map.jpg)
-
 家庭地址和公司地址都可精准选点，保存 6 位坐标；相同家庭地址可复用并共享坐标。地图页按地址合并联系人，全局地图支持家庭红 / 公司蓝标记，点击查看地址和联系人；设置中可选高德 / 百度。
 
 ### 关系图谱
 
-![关系图谱](https://cdn.jsdelivr.net/gh/ccztao/siyuan-mankeep@main/screenshots/graph.jpg)
+![关系图谱示意图](https://cdn.jsdelivr.net/gh/ccztao/siyuan-mankeep@main/screenshots/graph.jpg)
 
-> 图谱已匿名化：联系人显示为「联系人001…」，组织显示为「示例…」，Logo 已移除。
+> 示意图，非真实联系人数据。
 
 双向关系和 org 经历自动排布；支持聚焦、搜索、缩放、拖拽。隐私模式保留姓氏、隐藏名字；导出 6 倍 PNG，保留主题和 Logo，无点阵背景。
 
