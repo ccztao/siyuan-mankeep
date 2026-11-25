@@ -32,7 +32,7 @@
 
 ### 地图
 
-![全局地图示意图](https://cdn.jsdelivr.net/gh/ccztao/siyuan-mankeep@main/screenshots/global-map.jpg)
+![全局地图示意图](https://cdn.jsdelivr.net/gh/ccztao/siyuan-mankeep@420d9da5a73ea3a8319dd5be77a477ebdfb3693c/screenshots/global-map.jpg)
 
 > 示意图，非真实坐标。
 
