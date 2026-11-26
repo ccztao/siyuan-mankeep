@@ -51,7 +51,7 @@ Local-first · native database · three themes · exportable and recoverable · 
 - Aggregates home addresses and current company addresses, grouping contacts by address.
 - Home and company addresses support precise point selection and store six-decimal GCJ-02 coordinates.
 - Reuse an existing home address and share its coordinates; a family only needs to locate once.
-- The global map shows all saved coordinates: red for home, blue for company. Click a marker to see the address and contacts.
+- People and organization lists support province / city / district filtering. The global map shows all saved coordinates: red for home, blue for company. Click a marker to see the address and contacts.
 - Choose **Amap (default) or Baidu Maps** in Settings for opening addresses.
 - An Amap Web Service Key enables door-level search by community, road or POI.
 
