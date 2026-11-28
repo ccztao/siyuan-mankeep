@@ -27,6 +27,10 @@ Local-first · native database · three themes · exportable and recoverable · 
 | Two-page detail | Page 1: profile, organization history and anniversaries. Page 2: interactions and ledger |
 | One-click actions | Call a phone number, send email, or open a home address in the selected map app |
 
+### Task Manager integration
+
+Task Manager mentions use real SiYuan block references. Mankeep shows the backlink count beside each contact; click it to list every source document and block, then add any source as an interaction with the contact, date and note prefilled and the `@mention` removed.
+
 ### Organizations and experience
 
 - Separate records for schools, companies, government bodies and groups, with logo, short name, address and notes.
@@ -52,7 +56,7 @@ Local-first · native database · three themes · exportable and recoverable · 
 - Home and company addresses support precise point selection and store six-decimal GCJ-02 coordinates.
 - Reuse an existing home address and share its coordinates; a family only needs to locate once.
 - People and organization lists support province / city / district filtering. The global map shows all saved coordinates: red for home, blue for company. Click a marker to see the address and contacts.
-- Choose **Amap (default) or Baidu Maps** in Settings for opening addresses.
+- Choose **Amap (default), Baidu Maps or Google Maps** in Settings for opening addresses; external links never include contact or organization names.
 - An Amap Web Service Key enables door-level search by community, road or POI.
 
 ### Relationship graph
